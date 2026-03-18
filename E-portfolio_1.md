@@ -10,7 +10,7 @@ This article performs a systematic literature review based on practical case stu
 I chose this artefact because it directly illustrates modern process analysis techniques, such as reviewing case studies to identify bottlenecks (e.g. Integral technology, Order types, Extra resources,... (Milani & Lashkevich, 2025, p.11) and inefficiencies. It differentiates analysis methods (identifying IOs through case studies) from other BPM functions like modelling and automation. It is meaningful because it was published in 2025, which reflects the latest trends in data-driven analysis, and it supports my understanding of how to apply these techniques in practice for process redesign. This demonstrates the development of my knowledge from theory to practical application within organisations. 
 
 
-Artefact #2:
+### Artefact #2:
 1. Youtube video: Introduction To Business Process Management
 https://www.youtube.com/watch?v=9kVGL5DvDIc
 
