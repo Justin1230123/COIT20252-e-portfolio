@@ -1,7 +1,7 @@
 E-portfolio Submission one (from week one to week three)
 
 ### Artefact #1
-1. Scholarly article:"Business process improvement opportunities and redesign options: a systematic literature review" (Emerald Publishing, 2025)
+Scholarly article:"Business process improvement opportunities and redesign options: a systematic literature review" (Emerald Publishing, 2025)
 
 ## Summary of the chosen artefact:
 This article performs a systematic literature review based on practical case studies (e.g. SCOR Model Application in Reengineering Automotive Cross-Docking Platforms (Aboulaid et al., 2016, p. 1)). Additionally, Findings reveal 80 distinct improvement opportunities in the business process, which paired with 64 redesign options. Moreover, it presents a structured catalog so that analysysts can utilize in analyzing and improving business processes.
@@ -11,7 +11,7 @@ I chose this artefact because it directly illustrates modern process analysis te
 
 
 ### Artefact #2:
-1. Youtube video: Introduction To Business Process Management
+Youtube video: Introduction To Business Process Management
 https://www.youtube.com/watch?v=9kVGL5DvDIc
 
 
