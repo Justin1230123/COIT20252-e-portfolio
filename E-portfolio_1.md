@@ -50,8 +50,12 @@ Figure 7: Improvement opportunities (Object perspective), (Milani & Lashkevich, 
 
 
 
+It is meaningful because it was published in 2025, which reflects the latest trends in data-driven analysis, and it supports the understanding of how to apply these techniques in practice for process redesign.
 
-It is meaningful because it was published in 2025, which reflects the latest trends in data-driven analysis, and it supports the understanding of how to apply these techniques in practice for process redesign. This demonstrates the development of personal knowledge from theory to practical application within organisations. 
+
+
+
+This demonstrates the development of personal knowledge from theory to practical applications within organisations. 
 
 
 ### Artefact #2:
@@ -102,3 +106,6 @@ References:
 Aboulaid, H., Jardini, B., Sedqui, A., Elkayl, M., Britel, M.-R. & Amri, M. 2016, ‘Process re-engineering and success of integration projects of information technologies case study: process modeling of a cross docking platform of a car manufacturer’, 2016 3rd International Conference on Logistics Operations Management (GOL), IEEE, viewed 11 March 2026, https://ieeexplore.ieee.org/document/7731697.
 
 Milani, F. & Lashkevich, K. 2025, Business process improvement opportunities and redesign options: a systematic literature review, Business Process Management Journal, viewed 11 March 2026, https://www.emerald.com/bpmj/article-abstract/doi/10.1108/BPMJ-02-2025-0232/1272269.
+
+
+https://www.researchgate.net/publication/343539637_Process_Mining_Manifesto, page 6
