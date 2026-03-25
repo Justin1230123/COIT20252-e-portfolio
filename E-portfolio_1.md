@@ -40,13 +40,13 @@ Figure 5: Improvement opportunities (Control Flow perspective), (Milani & Lashke
 | Artefact #1 |
 | :---: |
 | ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/5-Artefact%20%231.png) |
-Figure 6: Improvement opportunities (Control Flow perspective), (Milani & Lashkevich, 2025, p.11)
+Figure 6: Improvement opportunities (Resource perspective), (Milani & Lashkevich, 2025, p.11)
 
 
 | Artefact #1 |
 | :---: |
 | ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/6-Artefact%20%231.png) |
-Figure 7: Improvement opportunities (Control Flow perspective), (Milani & Lashkevich, 2025, p.11)
+Figure 7: Improvement opportunities (Object perspective), (Milani & Lashkevich, 2025, p.11)
 
 
 
