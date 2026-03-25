@@ -11,8 +11,8 @@ This artefact is chosen because it directly illustrates modern process analysis 
 
 
 <div align="center">
-  <img src="https://github.com" width="80%" alt="Artefact 1">
-  <p><i>Hình 1: Mô tả chi tiết cho Artefact #1</i></p>
+  <img src="[https://github.com](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/1-%20Artefact%20%231.png)" width="80%" alt="Artefact 1">
+  <p><i>Figure 1: Improvement opportunities and their redesign opportunities, (Milani & Lashkevich, 2025, p.11)</i></p>
 </div>
 
 
