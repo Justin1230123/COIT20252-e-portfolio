@@ -12,7 +12,13 @@ This artefact is chosen because it directly illustrates modern process analysis 
 | Artefact #1 |
 | :---: |
 | ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/1-%20Artefact%20%231.png) |
-Figure 1: Improvement opportunities (process level and their redesign opportunities, (Milani & Lashkevich, 2025, p.11)
+Figure 1: Improvement opportunities (Process level and their redesign opportunities, (Milani & Lashkevich, 2025, p.11)
+
+| Artefact #1 |
+| :---: |
+| ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/2-%20Artefact%20%231.png) |
+Figure 2: Improvement opportunities (Fragment level and their redesign opportunities, (Milani & Lashkevich, 2025, p.11)
+
 
 It is meaningful because it was published in 2025, which reflects the latest trends in data-driven analysis, and it supports the understanding of how to apply these techniques in practice for process redesign. This demonstrates the development of personal knowledge from theory to practical application within organisations. 
 
