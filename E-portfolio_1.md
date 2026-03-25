@@ -12,17 +12,17 @@ This artefact is chosen because it directly illustrates modern process analysis 
 | Artefact #1 |
 | :---: |
 | ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/1-%20Artefact%20%231.png) |
-Figure 1: Improvement opportunities (Process level and their redesign opportunities), (Milani & Lashkevich, 2025, p.11)
+Figure 1: Improvement opportunities (Process level and their redesign options), (Milani & Lashkevich, 2025, p.11)
 
 | Artefact #1 |
 | :---: |
 | ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/2-%20Artefact%20%231.png) |
-Figure 2: Improvement opportunities (Fragment level and their redesign opportunities), (Milani & Lashkevich, 2025, p.11)
+Figure 2: Improvement opportunities (Fragment level and their redesign options), (Milani & Lashkevich, 2025, p.11)
 
 | Artefact #1 |
 | :---: |
 | ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/3-%20Artefact%20%231.png) |
-Figure 3: Improvement opportunities (Atomic level and their redesign opportunities), (Milani & Lashkevich, 2025, p.11)
+Figure 3: Improvement opportunities (Atomic level and their redesign options), (Milani & Lashkevich, 2025, p.11)
 
 
 
