@@ -57,7 +57,7 @@ It is meaningful because it was published in 2025, which reflects the latest tre
 
 This demonstrates the development of personal knowledge from theory to practical applications within organisations. 
 
-## Applying personal knowledge learnt from the artefact to real-world scenarios. This takes place at a ticket box company where they sell tickets directly to customer, but there are some inefficiencies and bottlenecks that requires an immediate process improvement.
+|Applying personal knowledge learnt from the artefact to real-world scenarios. This takes place at a ticket box company where they sell tickets directly to customer, but there are some inefficiencies and bottlenecks that requires an immediate process improvement|
 
 | Artefact #1 |
 | :---: |
