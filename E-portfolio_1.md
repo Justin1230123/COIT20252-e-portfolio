@@ -50,12 +50,8 @@ Figure 7: Improvement opportunities (Object perspective), (Milani & Lashkevich, 
 
 
 
-It is meaningful because it was published in 2025, which reflects the latest trends in data-driven analysis, and it supports the understanding of how to apply these techniques in practice for process redesign.
-
-
-
-
-This demonstrates the development of personal knowledge from theory to practical applications within organisations. 
+It is meaningful because it was published in 2025, which reflects the latest trends in data-driven analysis, and it supports the understanding of how to apply these techniques in practice for process redesign. Finally, this shifts from understanding core BPM concepts to confidently applying them in organisational improvement
+ 
 
 ## Applying personal knowledge learnt from the artefact to real-world scenarios. This takes place at a ticket box company where they sell tickets directly to customer, but there are some inefficiencies and bottlenecks that requires an immediate process improvement. 
 
@@ -74,16 +70,15 @@ Figure 9: Describe the gaps between AS-IS and TO-BE; propose some redesign optio
 
 
 ### Artefact #2:
-Youtube video: Introduction To Business Process Management
-https://www.youtube.com/watch?v=9kVGL5DvDIc
+YouTube video: Introduction To Business Process Management | Business Process Management Course 2026 | Simplilearn (Simplilearn, 2025)
 
 
 ## Summary of the chosen artefact:
-
+This video provides a comprehensive introduction to Business Process Management and its key concepts. It explains the BPM lifecycle with five main stages: Process Discovery, Process Modeling, Process Implementation, Process Monitoring and Process Optimization. The section on process analysis focuses on analysing “as-is” processes to identify inefficiencies and bottlenecks, collecting performance data through KPIs and metrics, and using the results for continuous improvement. Real-world examples from manufacturing, finance, retail and healthcare are used to illustrate how process analysis helps reduce delays and enhance efficiency (Simplilearn, 2025).
 
 
 ## The reasons behind choosing this artefact:
-
+This artefact is chosen because it directly illustrates the core concepts of process analysis in an easy-to-understand way, showing how to identify bottlenecks and inefficiencies through the BPM lifecycle. It differentiates analysis methods from other BPM functions like modelling and automation. Published in 2025, it reflects the latest trends in BPM education and supports practical understanding of how to apply process analysis in real organisations. This is meaningful evidence of my learning because the clear explanations and examples helped me connect theory from weeks 1–3 with my own tutorial work and the ticket box company scenario, where I identified waiting time and redundant steps. It demonstrates my development from understanding BPM concepts to confidently applying them in organisational improvement
 
 
 
