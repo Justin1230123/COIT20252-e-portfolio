@@ -9,13 +9,6 @@ This article performs a systematic literature review based on practical case stu
 ## The reasons behind choosing this artefact:
 This artefact is chosen because it directly illustrates modern process analysis techniques, such as reviewing case studies to identify bottlenecks (e.g. Integral technology, Order types, Extra resources,... (Milani & Lashkevich, 2025, p.11) and inefficiencies. It differentiates analysis methods (identifying IOs through case studies) from other BPM functions like modelling and automation. 
 
-
-<div align="center">
-  <img src="[https://github.com](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/1-%20Artefact%20%231.png)" width="80%" alt="Artefact 1">
-  <p><i>Figure 1: Improvement opportunities and their redesign opportunities, (Milani & Lashkevich, 2025, p.11)</i></p>
-</div>
-
-
 | Artefact #1 |
 | :---: |
 | ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/1-%20Artefact%20%231.png) |
