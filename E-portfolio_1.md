@@ -25,6 +25,31 @@ Figure 2: Improvement opportunities (Fragment level and their redesign options),
 Figure 3: Improvement opportunities (Atomic level and their redesign options), (Milani & Lashkevich, 2025, p.11)
 
 
+| Artefact #1 |
+| :---: |
+| ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/1-%20Artefact%20%231.png) |
+Figure 4: Improvement opportunities (Activity perspective), (Milani & Lashkevich, 2025, p.11)
+
+
+| Artefact #1 |
+| :---: |
+| ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/4-Artefact%20%231.png) |
+Figure 5: Improvement opportunities (Control Flow perspective), (Milani & Lashkevich, 2025, p.11)
+
+
+| Artefact #1 |
+| :---: |
+| ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/5-Artefact%20%231.png) |
+Figure 6: Improvement opportunities (Control Flow perspective), (Milani & Lashkevich, 2025, p.11)
+
+
+| Artefact #1 |
+| :---: |
+| ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/6-Artefact%20%231.png) |
+Figure 7: Improvement opportunities (Control Flow perspective), (Milani & Lashkevich, 2025, p.11)
+
+
+
 
 It is meaningful because it was published in 2025, which reflects the latest trends in data-driven analysis, and it supports the understanding of how to apply these techniques in practice for process redesign. This demonstrates the development of personal knowledge from theory to practical application within organisations. 
 
