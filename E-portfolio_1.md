@@ -57,17 +57,18 @@ It is meaningful because it was published in 2025, which reflects the latest tre
 
 This demonstrates the development of personal knowledge from theory to practical applications within organisations. 
 
-##Applying personal knowledge from the artefact to real-world scenarios
+## Applying personal knowledge learnt from the artefact to real-world scenarios. This takes place at a ticket box company where they sell tickets directly to customer, but there are some inefficiencies and bottlenecks that requires an immediate process improvement.
+
 | Artefact #1 |
 | :---: |
 | ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/7-Artefact%20%231.png) |
-Figure 8: Identifying inefficiencies, bottlenecks, and waste in the current process (an example of applying personal knowledge)
+Figure 8: Identifying inefficiencies, bottlenecks, and waste in the current process 
 
 
 | Artefact #1 |
 | :---: |
 | ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/8-Artefact%20%231.png) |
-Figure 9: Describe the gaps between AS-IS and TO-BE; propose some redesign options (an example of applying personal knowledge)
+Figure 9: Describe the gaps between AS-IS and TO-BE; propose some redesign options 
 
 
 
