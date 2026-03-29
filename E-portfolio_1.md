@@ -74,7 +74,15 @@ YouTube video: Introduction To Business Process Management | Business Process Ma
 
 
 ## Summary of the chosen artefact:
-This video provides a comprehensive introduction to Business Process Management and its key concepts. It explains the BPM lifecycle with five main stages: Process Discovery, Process Modeling, Process Implementation, Process Monitoring and Process Optimization. The section on process analysis focuses on analysing “as-is” processes to identify inefficiencies and bottlenecks, collecting performance data through KPIs and metrics, and using the results for continuous improvement. Real-world examples from manufacturing, finance, retail and healthcare are used to illustrate how process analysis helps reduce delays and enhance efficiency (Simplilearn, 2025).
+BPM = Business Process Management
+This video provides an introduction to Business Process Management and the key concepts. Furthermore, it explains the BPM lifecycle with five main stages: Process Discovery, Process Modeling, Process Implementation, Process Monitoring and Process Optimization. The section on process analysis concentrates on analyzing as-is processes to identify inefficiencies and bottlenecks, collecting performance data through KPIs and metrics, and using the results for continuous improvement. More importantly, practical examples from manufacturing, finance, retail and healthcare are used to illustrate how process analysis helps reduce delays and enhance efficiency (Simplilearn, 2025).
+
+
+| Artefact #2 |
+| :---: |
+| ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/9-Artefact%20%232.png) |
+Figure 10: Real-world examples of BPM (Viteri-Sánchez & Novillo-Villegas 2025).
+
 
 
 ## The reasons behind choosing this artefact:
@@ -119,4 +127,8 @@ This artefact is chosen because it directly illustrates the core concepts of pro
 - Aboulaid, H., Jardini, B., Sedqui, A., Elkayl, M., Britel, M.-R. & Amri, M. 2016, ‘Process re-engineering and success of integration projects of information technologies case study: process modeling of a cross docking platform of a car manufacturer’, 2016 3rd International Conference on Logistics Operations Management (GOL), IEEE, viewed 11 March 2026, https://ieeexplore.ieee.org/document/7731697.
 
 - Milani, F. & Lashkevich, K. 2025, Business process improvement opportunities and redesign options: a systematic literature review, Business Process Management Journal, viewed 11 March 2026, https://www.emerald.com/bpmj/article-abstract/doi/10.1108/BPMJ-02-2025-0232/1272269.
+ 
+- Simplilearn n.d., Simplilearn Official YouTube channel, viewed 29 March 2026, https://www.youtube.com/@SimplilearnOfficial
+
+- Viteri-Sánchez, C & Novillo-Villegas, S 2025, ‘A framework for a sustainable adoption of business process management’, Sustainability, vol. 17, no. 21, art. no. 9827, viewed 29 March 2026, https://doi.org/10.3390/su17219827
 
