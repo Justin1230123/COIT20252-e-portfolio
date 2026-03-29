@@ -105,16 +105,21 @@ Figure 11: A real castudy
 
 ### Artefact #3:
 
+Scholarly article: Optimization of Business Processes Through BPM Methodology: A Case Study on Data Analysis and Performance Improvement (Teixeira, Ferreira & Ramos, 2024/2025)
 
 ## Summary of the chosen artefact:
-
+This article applies the full BPM lifecycle to optimize a complex market analysis process in the market intelligence department of a major energy company. It presents detailed BPMN models for both the “as-is” and “to-be” states, using BPMN 2.0 notation. The study includes process discovery, value-added analysis, root-cause analysis, redesign with selective automation (Python scripts and Power BI dashboards), and implementation. UML diagrams (use case, sequence, package, component) are also used to support modeling and validation. The results show significant improvements in process efficiency, data quality, and decision-making support (Teixeira, Ferreira & Ramos, 2024).
 
 
 ## The reasons behind choosing this artefact:
+I chose this artefact because it directly demonstrates advanced business process modelling techniques using BPMN 2.0 in a real organisational context. It clearly shows how to create “as-is” and “to-be” models, identify inefficiencies through value-added analysis, and redesign processes while maintaining flexibility. This helps me distinguish modelling methods from other BPM functions such as analysis or automation. Published in late 2024 and aligned with 2025 trends, it reflects current best practices in BPM modelling for virtual and semi-structured processes.
+This is meaningful evidence of my learning because the detailed BPMN diagrams and case study helped me understand how proper modelling leads to measurable improvements. For example, the company reduced repetitive manual data collection and improved report quality after redesigning the process with BPMN and supporting tools. It connects well with the ticket box company scenario, where better modelling could eliminate redundant steps and waiting time. This artefact shows my progress from basic BPM concepts to confidently applying modelling techniques for real process optimisation.
 
 
-
-
+Figure gợi ý: https://www.mdpi.com/2078-2489/15/11/724
+Figure 2: BPMN AS-IS model
+Figure 4: BPMN TO-BE model
+Figure 5–8: UML diagrams hỗ trợ modelling
 
 
 ### References:
