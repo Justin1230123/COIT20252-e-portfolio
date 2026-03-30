@@ -75,7 +75,6 @@ YouTube video: Introduction To Business Process Management | Business Process Ma
 
 
 ## Summary of the chosen artefact:
-BPM = Business Process Management
 This video provides an introduction to Business Process Management and the key concepts. It explains the BPM lifecycle with five main stages: Process Discovery, Process Modeling, Process Implementation, Process Monitoring and Process Optimization. The section on process analysis concentrates on analyzing as-is processes to identify inefficiencies and bottlenecks. More importantly, practical examples from manufacturing, finance, retail and healthcare are used to illustrate how process analysis helps reduce delays and enhance efficiency (Simplilearn, 2025).
 
 
@@ -145,8 +144,8 @@ Figure 18: Component Diagram (Teixeira, Ferreira & Ramos 2024).
 
 
 ## The reasons behind choosing this artefact:
-I chose this artefact because it directly demonstrates advanced business process modelling techniques using BPMN 2.0 in a real organisational context. It clearly shows how to create “as-is” and “to-be” models, identify inefficiencies through value-added analysis, and redesign processes while maintaining flexibility. This helps me distinguish modelling methods from other BPM functions such as analysis or automation. Published in late 2024 and aligned with 2025 trends, it reflects current best practices in BPM modelling for virtual and semi-structured processes.
-This is meaningful evidence of my learning because the detailed BPMN diagrams and case study helped me understand how proper modelling leads to measurable improvements. For example, the company reduced repetitive manual data collection and improved report quality after redesigning the process with BPMN and supporting tools. It connects well with the ticket box company scenario, where better modelling could eliminate redundant steps and waiting time. This artefact shows my progress from basic BPM concepts to confidently applying modelling techniques for real process optimisation.
+While working on Artefact #3, I spent time carefully examining the BPMN AS-IS and TO-BE models from Teixeira et al. (2024), along with the supporting UML diagrams. What struck me most was how the authors transformed a semi-structured market analysis process in the energy company’s market intelligence department into a clear and manageable workflow by using modelling. The case study showed that good modelling requires deep understanding of the current process,  identification of non-value-added activities, and thoughtful redesign that still keeps flexibility for real users.
+This artefact has genuinely changed the way I approach modelling. I used to see it as a technical task, but now I understand it as a powerful thinking tool that can drive real efficiency gains and better decision-making. This reflection has increased my confidence in using BPMN and UML as practical skills in my future ICT career.
 
 
 ### References:
