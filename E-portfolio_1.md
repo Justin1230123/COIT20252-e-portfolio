@@ -52,7 +52,7 @@ Figure 7: Improvement opportunities (Object perspective), (Milani & Lashkevich, 
 When I applied this thinking to my ticket box company scenario, I realised the long waiting time at the counter and repeated manual data entry were inefficient activities that fit into the atomic level and control-flow perspective. Overall, this artefact has significantly changed how I view process analysis. I now understand that good analysis is not just about spotting problems, but about using a structured framework to uncover root causes and link them to practical redesign options. This aligns with Milani and Lashkevich (2025), who emphasised that the thorough identification of improvement opportunities will offer more effective redesign decisions.
  
 
-
+| Artefact #1 |
 | :---: |
 | Applying personal knowledge learnt from the artefact to real-world scenarios. This takes place at a ticket box company where they sell tickets directly to customer, but there are some inefficiencies and bottlenecks that requires immediate process improvement | 
 
