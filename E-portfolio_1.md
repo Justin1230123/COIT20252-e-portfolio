@@ -94,14 +94,14 @@ Figure 11: BPM lifecycle (Simplilearn, 2025)
 
 
 ## The reasons behind choosing this artefact:
-This video challenged my initial assumption that process analysis is mainly about drawing diagrams. Instead, the video showed me that analysis is a data-driven step that comes before modelling and redesign. It also shows how to identify bottlenecks and inefficiencies through the BPM lifecycle. Moreover, I particularly remember the part where they talked about mapping the current process to find hidden delays and unnecessary steps. Surprisingly, it felt  practical and made me realise how often we jump straight to solutions without entirely understanding the problem first. Now I understand that the real value starts with thorough analysis of what is actually taking place. 
+This video challenged my initial assumption that process analysis is mainly about drawing diagrams. Instead, the video showed me that analysis is a data-driven step that comes before modelling and redesign. It also shows how to identify bottlenecks and inefficiencies through the BPM lifecycle. Moreover, I particularly remember the part where they talked about mapping the current process to find hidden delays and unnecessary steps. Surprisingly, it felt  practical and made me realise how often we jump straight to solutions without entirely understanding the problem first. Now I understand that the real value starts with thorough analysis of what is actually taking place, rather than initially proposing solutions. 
 
 ## Applying personal knowledge learnt from the artefact to real-world scenarios
 
 | Artefact #2 |
 | :---: |
 | ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/11-Artefact%20%232.png) |
-Figure 11: A real castudy 
+Figure 12: A real-world castudy 
 
 
 
