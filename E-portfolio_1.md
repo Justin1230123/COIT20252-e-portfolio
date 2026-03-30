@@ -7,8 +7,7 @@ Scholarly article:"Business process improvement opportunities and redesign optio
 This article performs a systematic literature review based on practical case studies (e.g. SCOR Model Application in Reengineering Automotive Cross-Docking Platforms (Aboulaid et al., 2016, p. 1)). Additionally, Findings reveal 80 distinct improvement opportunities in the business process, which paired with 64 redesign options. IOs are categorized into 3 process levels (process,fragment,atomic) and 4 perspectives (activity/control-flow/resource/object). Furthermore, Bottlenecks and inefficiencies such as waiting time, redundant activities, and data duplication are listed in Table 3–6 along with corresponding redesign options. 
 
 ## The reasons behind choosing this artefact:
-This artefact is chosen because it directly illustrates modern process analysis techniques, such as reviewing case studies to identify bottlenecks (e.g. Integral technology, Order types, Extra resources,... (Milani & Lashkevich, 2025, p.11) and inefficiencies. It differentiates analysis methods (identifying IOs through case studies) from other BPM functions like modelling and automation. 
-
+During week 2, I studied the article by Milani and Lashkevich (2025), which systematically reviewed many practical case studies to create a catalog of improvement opportunities and redesign options in business processes. What stood out for me was how clearly the authors classified bottlenecks and inefficiencies based on the process levels and perspectives.
 | Artefact #1 |
 | :---: |
 | ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/1-%20Artefact%20%231.png) |
@@ -50,7 +49,7 @@ Figure 7: Improvement opportunities (Object perspective), (Milani & Lashkevich, 
 
 
 
-It is meaningful because it was published in 2025, which reflects the latest trends in data-driven analysis, and it supports the understanding of how to apply these techniques in practice for process redesign. Finally, this shifts from understanding core BPM concepts to confidently applying them in organisational improvement
+When I applied this thinking to my ticket box company scenario, I realised the long waiting time at the counter and repeated manual data entry were inefficient activities that fit into the atomic level and control-flow perspective. Overall, this artefact has significantly changed how I view process analysis. I now understand that good analysis is not just about spotting problems, but about using a structured framework to uncover root causes and link them to practical redesign options. This aligns with Milani and Lashkevich (2025), who emphasised that the thorough identification of improvement opportunities will offer more effective redesign decisions.
  
 
 ## Applying personal knowledge learnt from the artefact to real-world scenarios. This takes place at a ticket box company where they sell tickets directly to customer, but there are some inefficiencies and bottlenecks that requires an immediate process improvement. 
@@ -75,7 +74,7 @@ YouTube video: Introduction To Business Process Management | Business Process Ma
 
 ## Summary of the chosen artefact:
 BPM = Business Process Management
-This video provides an introduction to Business Process Management and the key concepts. Furthermore, it explains the BPM lifecycle with five main stages: Process Discovery, Process Modeling, Process Implementation, Process Monitoring and Process Optimization. The section on process analysis concentrates on analyzing as-is processes to identify inefficiencies and bottlenecks, collecting performance data through KPIs and metrics, and using the results for continuous improvement. More importantly, practical examples from manufacturing, finance, retail and healthcare are used to illustrate how process analysis helps reduce delays and enhance efficiency (Simplilearn, 2025).
+This video provides an introduction to Business Process Management and the key concepts. It explains the BPM lifecycle with five main stages: Process Discovery, Process Modeling, Process Implementation, Process Monitoring and Process Optimization. The section on process analysis concentrates on analyzing as-is processes to identify inefficiencies and bottlenecks. More importantly, practical examples from manufacturing, finance, retail and healthcare are used to illustrate how process analysis helps reduce delays and enhance efficiency (Simplilearn, 2025).
 
 
 | Artefact #2 |
@@ -92,7 +91,7 @@ Figure 11: BPM lifecycle (Simplilearn, 2025)
 
 
 ## The reasons behind choosing this artefact:
-This artefact is chosen because it directly illustrates the core concepts of process analysis in a simple way. It also shows how to identify bottlenecks and inefficiencies through the BPM lifecycle. Moreover, it differentiates analysis methods from other BPM functions like modelling and automation. Additionally, this video is published in 2025 on Youtube, it reflects the newest trends in BPM education and supports practical understanding of how to apply process analysis in today organisations. Essentially, this is meaningful evidence of my learning because the clear explanations and practical examples helped me connect theory from weeks 1–3 with my own tutorial work and the ticket box company scenario, where I identified waiting time and redundant steps. Finally, it shows my progress from understanding basic BPM concepts to  applying process analysis for organisational improvement.. 
+This video challenged my initial assumption that process analysis is mainly about drawing diagrams. Instead, the video showed me that analysis is a data-driven step that comes before modelling and redesign. It also shows how to identify bottlenecks and inefficiencies through the BPM lifecycle. Moreover, I particularly remember the part where they talked about mapping the current process to find hidden delays and unnecessary steps. It felt surprisingly practical and made me realise how often we jump straight into solutions without really understanding the problem first. Now I understand that the real value starts with careful analysis of what is actually happening. 
 
 ## Applying personal knowledge learnt from the artefact to real-world scenarios
 
