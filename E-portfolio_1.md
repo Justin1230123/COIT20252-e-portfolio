@@ -55,7 +55,7 @@ When I applied this thinking to my ticket box company scenario, I realised the l
 
 | Artefact #1 |
 | :---: |
-| Applying personal knowledge learnt from the artefact to real-world scenarios. This takes place at a ticket box company where they sell tickets directly to customers, but there are some inefficiencies and bottlenecks that requires immediate process improvement | 
+| Applying personal knowledge learnt from the artefact to real-world scenarios. This takes place at a ticket box company where they sell tickets directly to customers, but there are some inefficiencies and bottlenecks that require immediate process improvement | 
 
 | Artefact #1 |
 | :---: |
@@ -94,7 +94,7 @@ Figure 11: BPM lifecycle (Simplilearn, 2025)
 
 
 ## The reasons behind choosing this artefact:
-This video challenged my initial assumption that process analysis is mainly about drawing diagrams. Instead, the video showed me that analysis is a data-driven step that comes before modelling and redesign. It also shows how to identify bottlenecks and inefficiencies through the BPM lifecycle. Moreover, I particularly remember the part where they talked about mapping the current process to find hidden delays and unnecessary steps. Surprisingly, tt felt  practical and made me realise how often we come into solutions/conclusions without entirely understanding the problem first. Now I understand that the real value starts with thorough analysis of what is actually taking place. 
+This video challenged my initial assumption that process analysis is mainly about drawing diagrams. Instead, the video showed me that analysis is a data-driven step that comes before modelling and redesign. It also shows how to identify bottlenecks and inefficiencies through the BPM lifecycle. Moreover, I particularly remember the part where they talked about mapping the current process to find hidden delays and unnecessary steps. Surprisingly, it felt  practical and made me realise how often we jump straight to solutions without entirely understanding the problem first. Now I understand that the real value starts with thorough analysis of what is actually taking place. 
 
 ## Applying personal knowledge learnt from the artefact to real-world scenarios
 
