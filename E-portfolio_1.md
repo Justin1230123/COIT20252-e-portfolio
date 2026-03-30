@@ -4,7 +4,7 @@ E-portfolio Submission one (from week one to week three)
 Scholarly article:"Business process improvement opportunities and redesign options: a systematic literature review" (Emerald Publishing, 2025)
 
 ## Summary of the chosen artefact:
-This article performs a systematic literature review based on practical case studies (e.g. SCOR Model Application in Reengineering Automotive Cross-Docking Platforms (Aboulaid et al., 2016, p. 1)). Additionally, Findings reveal 80 distinct improvement opportunities in the business process, which paired with 64 redesign options. IOs are categorized into 3 process levels (process,fragment,atomic) and 4 perspectives (activity/control-flow/resource/object). Furthermore, Bottlenecks and inefficiencies such as waiting time, redundant activities, and data duplication are listed in Table 3–6 along with corresponding redesign options. 
+This article performs a systematic literature review based on practical case studies (e.g. SCOR Model Application in Reengineering Automotive Cross-Docking Platforms (Aboulaid et al., 2016, p. 1)). Additionally, Findings reveal 80 distinct improvement opportunities in the business process, which paired with 64 redesign options. IOs are categorized into 3 process levels (process, fragment, atomic) and 4 perspectives (activity/control-flow/resource/object). Furthermore, Bottlenecks and inefficiencies such as waiting time, redundant activities, and data duplication are listed in Table 3–6 along with corresponding redesign options. 
 
 ## The reasons behind choosing this artefact:
 During week 2, I studied the article by Milani and Lashkevich (2025), which systematically reviewed many practical case studies to create a catalog of improvement opportunities and redesign options in business processes. What stood out for me was how clearly the authors classified bottlenecks and inefficiencies based on the process levels and perspectives.
@@ -54,7 +54,7 @@ When I applied this thinking to my ticket box company scenario, I realised the l
 
 | Artefact #1 |
 | :---: |
-| Applying personal knowledge learnt from the artefact to real-world scenarios. This takes place at a ticket box company where they sell tickets directly to customer, but there are some inefficiencies and bottlenecks that requires immediate process improvement | 
+| Applying personal knowledge learnt from the artefact to real-world scenarios. This takes place at a ticket box company where they sell tickets directly to customers, but there are some inefficiencies and bottlenecks that requires immediate process improvement | 
 
 | Artefact #1 |
 | :---: |
