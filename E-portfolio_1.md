@@ -4,10 +4,11 @@ E-portfolio Submission one (from week one to week three)
 Scholarly article:"Business process improvement opportunities and redesign options: a systematic literature review" (Emerald Publishing, 2025)
 
 ## Summary of the chosen artefact:
-This article performs a systematic literature review based on practical case studies (e.g. SCOR Model Application in Reengineering Automotive Cross-Docking Platforms (Aboulaid et al., 2016, p. 1)). Additionally, Findings reveal 80 distinct improvement opportunities in the business process, which paired with 64 redesign options. IOs are categorized into 3 process levels (process, fragment, atomic) and 4 perspectives (activity/control-flow/resource/object). Furthermore, Bottlenecks and inefficiencies such as waiting time, redundant activities, and data duplication are listed in Table 3–6 along with corresponding redesign options. 
+This article is a systematic literature review based on practical case studies (e.g. SCOR Model Application in Reengineering Automotive Cross-Docking Platforms (Aboulaid et al., 2016, p. 1)). Additionally, Findings reveal 80 distinct improvement opportunities in the business process, which come with 64 redesign options. IOs are categorized into 3 process levels (process, fragment, atomic) and 4 perspectives (activity/control-flow/resource/object). Furthermore, Bottlenecks and inefficiencies such as waiting time, redundant activities, and data duplication are listed in Table 3–6 along with corresponding redesign options. 
 
 ## The reasons behind choosing this artefact:
 During week 2, I studied the article by Milani and Lashkevich (2025), which systematically reviewed many practical case studies to create a catalog of improvement opportunities and redesign options in business processes. What stood out for me was how clearly the authors classified bottlenecks and inefficiencies based on the process levels and perspectives.
+
 | Artefact #1 |
 | :---: |
 | ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/1-%20Artefact%20%231.png) |
@@ -93,7 +94,7 @@ Figure 11: BPM lifecycle (Simplilearn, 2025)
 
 
 ## The reasons behind choosing this artefact:
-This video challenged my initial assumption that process analysis is mainly about drawing diagrams. Instead, the video showed me that analysis is a data-driven step that comes before modelling and redesign. It also shows how to identify bottlenecks and inefficiencies through the BPM lifecycle. Moreover, I particularly remember the part where they talked about mapping the current process to find hidden delays and unnecessary steps. It felt surprisingly practical and made me realise how often we jump straight into solutions without really understanding the problem first. Now I understand that the real value starts with careful analysis of what is actually happening. 
+This video challenged my initial assumption that process analysis is mainly about drawing diagrams. Instead, the video showed me that analysis is a data-driven step that comes before modelling and redesign. It also shows how to identify bottlenecks and inefficiencies through the BPM lifecycle. Moreover, I particularly remember the part where they talked about mapping the current process to find hidden delays and unnecessary steps. Surprisingly, tt felt  practical and made me realise how often we come into solutions/conclusions without entirely understanding the problem first. Now I understand that the real value starts with thorough analysis of what is actually taking place. 
 
 ## Applying personal knowledge learnt from the artefact to real-world scenarios
 
