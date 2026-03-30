@@ -100,7 +100,7 @@ This video challenged my initial assumption that process analysis is mainly abou
 | Artefact #2 |
 | :---: |
 | ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/11-Artefact%20%232.png) |
-Figure 12: A real-world castudy Infosys BPM (n.d)
+Figure 12: A real-world case study (Infosys BPM n.d)
 
 
 
