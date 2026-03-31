@@ -50,7 +50,7 @@ Figure 7: Improvement opportunities (Object perspective), (Milani & Lashkevich, 
 
 
 
-When I applied this thinking to my ticket box company scenario, I realised the long waiting time at the counter and repeated manual data entry were inefficient activities that fit into the atomic level and control-flow perspective. Overall, this artefact has significantly changed how I view process analysis. I now understand that good analysis is not just about spotting problems, but about using a structured framework to uncover root causes and link them to practical redesign options. This aligns with Milani and Lashkevich (2025), who emphasised that if carefully indentifying improvement opportunities, it will offer more effective redesign decisions.
+When I applied this thinking to my ticket box company scenario, I realised the long waiting time at the counter and repeated manual data entry were redundant activities that fit into the atomic level and control-flow perspective. Overall, this artefact has significantly changed how I view process analysis, and I now understand that good analysis is not just about spotting problems, but also about using a structured framework to reveal root causes and link them to practical redesign options. This aligns with Milani and Lashkevich (2025) paper, which emphasised that if carefully indentifying improvement opportunities, it will offer more effective redesign decisions.
  
 
 | Artefact #1 |
@@ -108,7 +108,7 @@ Figure 12: A real-world case study (Infosys BPM n.d)
 Scholarly article: Optimization of Business Processes Through BPM Methodology: A Case Study on Data Analysis and Performance Improvement (Teixeira, Ferreira & Ramos, 2024/2025)
 
 ## Summary of the chosen artefact:
-This article applies the full BPM lifecycle to optimize a complex market analysis process in the market intelligence department of a major energy company. It presents detailed BPMN models for both the “as-is” and “to-be” states, using BPMN 2.0 notation. The study includes process discovery, value-added analysis, root-cause analysis, redesign with selective automation (Python scripts and Power BI dashboards), and implementation. UML diagrams (use case, sequence, package, component) are also used to support modeling and validation. The results show significant improvements in process efficiency, data quality, and decision-making support (Teixeira, Ferreira & Ramos, 2024).
+This article applies the BPM lifecycle to optimize a complex market analysis process in the market intelligence department of a major energy company. It presents detailed BPMN models (using BPMN 2.0 notation) for both the as-is and to-be states. The study includes process discovery, value-added analysis, root-cause analysis, redesign strategy with selective automation (Python 3.10 scripts and Power BI dashboards), and implementation. UML diagrams (use case, sequence, package, component) are also used to support modeling and validation. The results show significant improvements in process efficiency, data quality, and decision-making support (Teixeira, Ferreira & Ramos, 2024).
 
 | Artefact #3 |
 | :---: |
@@ -144,8 +144,7 @@ Figure 18: Component Diagram (Teixeira, Ferreira & Ramos 2024).
 
 
 ## The reasons behind choosing this artefact:
-While working on Artefact #3, I spent time carefully examining the BPMN AS-IS and TO-BE models from Teixeira et al. (2024), along with the supporting UML diagrams. What struck me most was how the authors transformed a semi-structured market analysis process in the energy company’s market intelligence department into a clear and manageable workflow by using modelling. The case study showed that good modelling requires deep understanding of the current process,  identification of non-value-added activities, and thoughtful redesign that still keeps flexibility for real users.
-This artefact has genuinely changed the way I approach modelling. I used to see it as a technical task, but now I understand it as a powerful thinking tool that can drive real efficiency gains and better decision-making. This reflection has increased my confidence in using BPMN and UML as practical skills in my future ICT career.
+While working on Artefact #3, I spent time carefully examining the BPMN AS-IS and TO-BE models from Teixeira et al. (2024), along with the UML diagrams. What struck me most was how the authors transformed a semi-structured market analysis process in the energy company’s market intelligence department into a clear and manageable workflow by using modelling. The case study showed that good modelling requires deep understanding of the current process,  identification of non-value-added activities, and thoughtful redesign that will still be flexible for real users. This artefact has genuinely changed the way I approach modelling. I used to see it as a technical task, but now I understand it as a powerful thinking tool that can drive real efficiency gains and better decision-making. This reflection has increased my confidence in using BPMN and UML as practical skills in my future ICT career.
 
 
 ### References:
