@@ -147,6 +147,20 @@ Figure 18: Component Diagram (Teixeira, Ferreira & Ramos 2024).
 While working on Artefact #3, I spent time carefully examining the BPMN AS-IS and TO-BE models from Teixeira et al. (2024), along with the UML diagrams. What struck me most was how the authors transformed a semi-structured market analysis process in the energy company’s market intelligence department into a clear and manageable workflow by using modelling. The case study showed that good modelling requires deep understanding of the current process,  identification of non-value-added activities, and thoughtful redesign, including selective automation that still maintains flexibility for real users. This artefact has genuinely changed the way I approach modelling. I used to see it as a technical task, and it is just merely drawing neat diagrams but now I acknowledge it as a powerful thinking tool that can gain real efficiencies and better decision-making. This reflection has increased my confidence in using BPMN and UML as practical skills in my future ICT career as a business analyst.
 
 
+| Artefact #3 |
+| :---: |
+| ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/18-Artefact%20%233.png) |
+Figure 19: Component Diagram (Teixeira, Ferreira & Ramos 2024).
+
+| Artefact #3 |
+| :---: |
+| ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/19-Artefact%20%233.png) |
+Figure 20: Component Diagram (Teixeira, Ferreira & Ramos 2024).
+
+
+### Artefact 4:
+
+
 ### References:
 
 - Aboulaid, H., Jardini, B., Sedqui, A., Elkayl, M., Britel, M.-R. & Amri, M. 2016, ‘Process re-engineering and success of integration projects of information technologies case study: process modeling of a cross docking platform of a car manufacturer’, 2016 3rd International Conference on Logistics Operations Management (GOL), IEEE, viewed 11 March 2026, https://ieeexplore.ieee.org/document/7731697.
@@ -155,11 +169,13 @@ While working on Artefact #3, I spent time carefully examining the BPMN AS-IS an
 
 - Milani, F. & Lashkevich, K. 2025, Business process improvement opportunities and redesign options: a systematic literature review, Business Process Management Journal, viewed 11 March 2026, https://www.emerald.com/bpmj/article-abstract/doi/10.1108/BPMJ-02-2025-0232/1272269.
 
+- Teixeira, AR, Ferreira, JV & Ramos, AL 2024, ‘Optimization of business processes through BPM methodology: a case study on data analysis and performance improvement’, Information, vol. 15, no. 11, art. no. 724, viewed 30 March 2026, https://doi.org/10.3390/info15110724
+  
 - Viteri-Sánchez, C & Novillo-Villegas, S 2025, ‘A framework for a sustainable adoption of business process management’, Sustainability, vol. 17, no. 21, art. no. 9827, viewed 29 March 2026, https://doi.org/10.3390/su17219827
 
 - Viteri-Sánchez, C & Novillo-Villegas, S 2025, ‘A framework for a sustainable adoption of business process management’, Sustainability, vol. 17, no. 21, art. no. 9827, viewed 29 March 2026, https://doi.org/10.3390/su17219827
  
 - Simplilearn n.d., Simplilearn Official YouTube channel, viewed 29 March 2026, https://www.youtube.com/@SimplilearnOfficial
 
-
+  
 
