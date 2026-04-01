@@ -150,12 +150,12 @@ While working on Artefact #3, I spent time carefully examining the BPMN AS-IS an
 | Artefact #3 |
 | :---: |
 | ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/18-Artefact%20%233.png) |
-Figure 19: Component Diagram (Teixeira, Ferreira & Ramos 2024).
+Figure 19: BPMN Flow (Teixeira, Ferreira & Ramos 2024).
 
 | Artefact #3 |
 | :---: |
 | ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/19-Artefact%20%233.png) |
-Figure 20: Component Diagram (Teixeira, Ferreira & Ramos 2024).
+Figure 20: BPMN Flow (Teixeira, Ferreira & Ramos 2024).
 
 
 ### Artefact 4:
