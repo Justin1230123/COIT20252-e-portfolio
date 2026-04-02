@@ -159,7 +159,7 @@ Figure 20: BPMN Flow (Teixeira, Ferreira & Ramos 2024).
 
 
 ### Artefact 4:
-
+Acdemic article: A Framework for a Sustainable Adoption of Business Process Management
 
 ### References:
 
