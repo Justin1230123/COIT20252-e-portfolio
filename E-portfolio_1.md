@@ -182,21 +182,14 @@ Reading the article made me reconsider how BPM adoption actually occurs in real 
 
 ### References:
 
-- Aboulaid, H., Jardini, B., Sedqui, A., Elkayl, M., Britel, M.-R. & Amri, M. 2016, ‘Process re-engineering and success of integration projects of information technologies case study: process modeling of a cross docking platform of a car manufacturer’, 2016 3rd International Conference on Logistics Operations Management (GOL), IEEE, viewed 11 March 2026, https://ieeexplore.ieee.org/document/7731697.
-
-- Infosys BPM n.d., The magic of engineering managed services for BPM, viewed 29 March 2026, https://www.infosysbpm.com/offerings/industries/manufacturing/case-studies/documents/the-magic-of-engineering-managed-services-for-bpm.pdf
-
-- Milani, F. & Lashkevich, K. 2025, Business process improvement opportunities and redesign options: a systematic literature review, Business Process Management Journal, viewed 11 March 2026, https://www.emerald.com/bpmj/article-abstract/doi/10.1108/BPMJ-02-2025-0232/1272269.
-
-- Teixeira, AR, Ferreira, JV & Ramos, AL 2024, ‘Optimization of business processes through BPM methodology: a case study on data analysis and performance improvement’, Information, vol. 15, no. 11, art. no. 724, viewed 30 March 2026, https://doi.org/10.3390/info15110724
-
-- Teixeira, AR, Ferreira, JV & Ramos, AL 2024, ‘Optimization of business processes through BPM methodology: a case study on data analysis and performance improvement’, Information, vol. 15, no. 11, art. no. 724, viewed 30 March 2026, https://doi.org/10.3390/info15110724
+- Aboulaid, H, Jardini, B, Sedqui, A, Elkayl, M, Britel, M-R & Amri, M 2016, ‘Process re-engineering and success of integration projects of information technologies case study: process modeling of a cross docking platform of a car manufacturer’, 2016 3rd International Conference on Logistics Operations Management (GOL), IEEE, viewed 11 March 2026, https://ieeexplore.ieee.org/document/7731697.
   
-Viteri-Sánchez, C & Novillo-Villegas, S 2025, ‘A framework for a sustainable adoption of business process management’, Sustainability, vol. 17, no. 21, art. no. 9827, viewed 30 March 2026, https://doi.org/10.3390/su17219827
-
-- Viteri-Sánchez, C & Novillo-Villegas, S 2025, ‘A framework for a sustainable adoption of business process management’, Sustainability, vol. 17, no. 21, art. no. 9827, viewed 29 March 2026, https://doi.org/10.3390/su17219827
- 
-- Simplilearn n.d., Simplilearn Official YouTube channel, viewed 29 March 2026, https://www.youtube.com/@SimplilearnOfficial
-
+- Infosys BPM n.d., The magic of engineering managed services for BPM, viewed 29 March 2026, https://www.infosysbpm.com/offerings/industries/manufacturing/case-studies/documents/the-magic-of-engineering-managed-services-for-bpm.pdf.
   
+- Milani, F & Lashkevich, K 2025, ‘Business process improvement opportunities and redesign options: a systematic literature review’, Business Process Management Journal, viewed 11 March 2026, https://www.emerald.com/bpmj/article-abstract/doi/10.1108/BPMJ-02-2025-0232/1272269.
 
+- Simplilearn n.d., Simplilearn Official YouTube channel, viewed 29 March 2026, https://www.youtube.com/@SimplilearnOfficial.
+  
+- Teixeira, AR, Ferreira, JV & Ramos, AL 2024, ‘Optimization of business processes through BPM methodology: a case study on data analysis and performance improvement’, Information, vol. 15, no. 11, art. no. 724, viewed 30 March 2026, https://doi.org/10.3390/info15110724.
+
+- Viteri-Sánchez, C & Novillo-Villegas, S 2025, ‘A framework for a sustainable adoption of business process management’, Sustainability, vol. 17, no. 21, art. no. 9827, viewed 30 March 2026, https://doi.org/10.3390/su17219827.
