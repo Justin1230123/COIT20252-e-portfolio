@@ -161,6 +161,25 @@ Figure 20: BPMN Flow (Teixeira, Ferreira & Ramos 2024).
 ### Artefact 4:
 Acdemic article: A Framework for a Sustainable Adoption of Business Process Management
 
+## Summary of the chosen artefact:
+This article presents a framework for the sustainable adoption of Business Process Management through a semi-structured systematic literature review. It identifies six stages of BPM adoption: documentation, standardization, modeling, monitoring, digitalization, and Industry 5.0 integration. The study also analyses the evolution of process management across three waves and presents a conceptual framework that incorporate adoption stages, sustainability, and technological evolution (Viteri-Sánchez & Novillo-Villegas 2025).
+
+| Artefact #4 |
+| :---: |
+| ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/1-Artefact%20%234.png) |
+Figure 21: 3 Waves of BPM (Viteri-Sánchez & Novillo-Villegas 2025)
+
+
+| Artefact #4 |
+| :---: |
+| ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/2-Artefact%20%234.jpg) |
+Figure 22: Conceptual Framework for adopting BPM (Viteri-Sánchez & Novillo-Villegas 2025)
+
+
+## The reasons behind choosing this artefact:
+Reading the article made me reconsider how BPM adoption actually occurs in real organisations. The authors present a six-stage framework, which starts from basic documentation and gradually advancing to digital integration. I was particularly surprised by the key role of the modelling stage. So I realised modelling is actually a key decision point: it decides what stays, what needs to be fixed, and how the process can grow with the company’s future needs. Moreover, It transforms daily processes into structured workflows that can be analysed, improved, and sustained over time. Before reading this paper, I tended to view modelling as drawing diagrams. Now, I understand it as a decision point where organisations determine which processes are effective, which need improvement, and how the process can adapt to future changes. The framework also highlighted that neglecting proper modelling often results in recurring issues later. Taking the time to model carefully makes constant BPM activities more effective. This reflection has significantly influenced my understanding of BPM, and I now see process modelling as one of the most valuable skills in the field. 
+
+
 ### References:
 
 - Aboulaid, H., Jardini, B., Sedqui, A., Elkayl, M., Britel, M.-R. & Amri, M. 2016, ‘Process re-engineering and success of integration projects of information technologies case study: process modeling of a cross docking platform of a car manufacturer’, 2016 3rd International Conference on Logistics Operations Management (GOL), IEEE, viewed 11 March 2026, https://ieeexplore.ieee.org/document/7731697.
@@ -170,8 +189,10 @@ Acdemic article: A Framework for a Sustainable Adoption of Business Process Mana
 - Milani, F. & Lashkevich, K. 2025, Business process improvement opportunities and redesign options: a systematic literature review, Business Process Management Journal, viewed 11 March 2026, https://www.emerald.com/bpmj/article-abstract/doi/10.1108/BPMJ-02-2025-0232/1272269.
 
 - Teixeira, AR, Ferreira, JV & Ramos, AL 2024, ‘Optimization of business processes through BPM methodology: a case study on data analysis and performance improvement’, Information, vol. 15, no. 11, art. no. 724, viewed 30 March 2026, https://doi.org/10.3390/info15110724
+
+- Teixeira, AR, Ferreira, JV & Ramos, AL 2024, ‘Optimization of business processes through BPM methodology: a case study on data analysis and performance improvement’, Information, vol. 15, no. 11, art. no. 724, viewed 30 March 2026, https://doi.org/10.3390/info15110724
   
-- Viteri-Sánchez, C & Novillo-Villegas, S 2025, ‘A framework for a sustainable adoption of business process management’, Sustainability, vol. 17, no. 21, art. no. 9827, viewed 29 March 2026, https://doi.org/10.3390/su17219827
+Viteri-Sánchez, C & Novillo-Villegas, S 2025, ‘A framework for a sustainable adoption of business process management’, Sustainability, vol. 17, no. 21, art. no. 9827, viewed 30 March 2026, https://doi.org/10.3390/su17219827
 
 - Viteri-Sánchez, C & Novillo-Villegas, S 2025, ‘A framework for a sustainable adoption of business process management’, Sustainability, vol. 17, no. 21, art. no. 9827, viewed 29 March 2026, https://doi.org/10.3390/su17219827
  
