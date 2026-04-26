@@ -1,1 +1,20 @@
+E-portfolio Submission one (from week one to week three)
 
+### Artefact #1
+Scholarly article:"A Simulation-Driven Business Process Reengineering Framework for Teaching Assignment Optimization in Higher Education—A Case Study of the University of Basilicata" (Renna & Colonnese, 2025)
+
+
+Summary:
+This article introduces a Business Process Reengineering framework which applied within a higher education institution to improve teaching assignment processes. In order to achieve this, the author adopts two critical approaches, which are a detailed AS-IS analysis and a data-driven TO-BE redesign, along with process modeling, simulation, and digital tools. At first, the simulation returns promising results, which are a 35% reduction in  processing time and a 22% improvement in resource utilization. 
+
+Personal reflection:
+By using the BPMN 2.0 to create the AS-IS teaching assignment workflows, it reveals all the efficiencies, especially the part where different stakeholders had to interact. The paper emphasizes the importance of stakeholder alignment and satisfaction, rather than prioritizing technical solutions. Moreover, the process truly understands people's role, responsibilities and challenges, which helps identify the delays happen at what stage (bottlenecks), whether it is lack of communication or unclear responsibilities. Another key aspect is how they use the simulation tool (SIMUL8®) to test the performance of to-be model before employing it to see whether it works for involving stakeholders or creates new bottlenecks. This artefact has showed me that processes should be intuitive and practical for the people who use them on a daily basis.
+
+
+
+
+
+| Artefact #1 |
+| :---: |
+| ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/1-%20Artefact%20%231.png) |
+Figure 1: Improvement opportunities (Process level and their redesign options), (Milani & Lashkevich, 2025, p.11)
