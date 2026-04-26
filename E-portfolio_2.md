@@ -1,6 +1,6 @@
 E-portfolio Submission one (from week one to week three)
 
-### Artefact #1
+### Artefact #1:
 Scholarly article:"A Simulation-Driven Business Process Reengineering Framework for Teaching Assignment Optimization in Higher Education—A Case Study of the University of Basilicata" (Renna & Colonnese, 2025)
 
 
@@ -28,6 +28,7 @@ Figure 3: Numeric results of piloting the simulation tool (Renna & Colonnese, 20
 
 
 
+### Artefact #2:
 
 
 
