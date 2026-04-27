@@ -8,7 +8,7 @@ Summary:
 This article introduces a Business Process Reengineering framework which applied within a higher education institution to improve teaching assignment processes. In order to achieve this, the author adopts two critical approaches, which are a detailed AS-IS analysis and a data-driven TO-BE redesign, along with process modeling, simulation, and digital tools. At first, the simulation returns promising results, which are a 35% reduction in  processing time and a 22% improvement in resource utilization. 
 
 Personal reflection:
-I chose this artefact because it directly shows how BPMN is applied in a practical higher education environment, which is relevant to the Business Process Modelling theme (Renna & Colonnese, 2025, p. 1). It strengthens my understanding of how AS-IS models reveal inefficiencies, especially the part where stakeholders had to interact. I found the stakeholder-centric aspect meaningful, since it showed that effective reengineering must consider human elements, not just technical solutions (Renna & Colonnese, 2025, p.5). Another key aspect is the use of SIMUL8® tool to demonstrate the performance of to-be model, which shows me how simulation can predict the behaviour of process before employing it (Renna & Colonnese, 2025, p. 13). This artefact aligns with BPM principles that reengineering processes must take user into consideration, rather than being effective in theory.
+I chose this artefact because it directly shows how BPMN is applied in a practical higher education environment, which is relevant to the Business Process Modelling theme (Renna & Colonnese, 2025, p. 1). It strengthens my understanding of how AS-IS models reveal inefficiencies, especially the part where stakeholders had to interact. I found the stakeholder-centric aspect meaningful, since it showed that effective reengineering must consider human elements, not just technical solutions (Renna & Colonnese, 2025, p.5). Another key aspect is the use of SIMUL8® tool to demonstrate the performance of to-be model, which shows me how simulation can predict the behaviour of process before employing it (Renna & Colonnese, 2025, p. 13). This artefact aligns with BPM principles that reengineering processes must take user into consideration, rather than being effective only in theory.
 
 
 | Artefact #1 |
@@ -30,7 +30,10 @@ Figure 3: Numeric results of piloting the simulation tool (Renna & Colonnese, 20
 
 ### Artefact #2:
 
-
+| Artefact #2 |
+| :---: |
+| ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/E-portfolio2_Artefact-2.1.png) |
+Figure 4: BPMN TO-BE PROCESS
 
 
 
