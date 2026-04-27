@@ -28,13 +28,24 @@ Figure 3: Numeric results of piloting the simulation tool (Renna & Colonnese, 20
 
 
 
-### Artefact #2:
+### Artefact #2: Engineering a BPMB TO-BE process model: Student Requesting Assignment Feedback
+
+
+Summary:
+This artefact is designed in BizagiModeler program. The model shows a reengineering process for students at CQUniversity who wants to request assignment feedback. It has three swimlanes which represents three participants. First and foremost is student, the second one is Moodle system, and the last one is Lecturer or Unit Coordinator. The process begins when a student selects a unit and submits a feedback request, which is then automatically evaluated by AI in Moodle system (e.g., academic writing) before being assigned to the corresponding teacher. When the teacher is done with composing detailed feedback, the system automatically notifies the student via email or message.
+
+
+Personal reflection:
+I selected this artefact because, after acquiring a great amount of theoretical knowledge, I wanted to apply Business process modelling concepts (week 4 and 5) by redesigning an existing AS-IS model. In CQU context, I observed that whenever students receive their marks, the feedback along with it is always one direction, which means students cannot argue against it. Hence, I reengineered the process to show that student arguments can be fairly evaluated by AI system and the corresponding teacher will review the request. Since not every teacher's feedback is entirely accurate, it will therefore foster academic integrity and enhance teaching quality (Nazaretsky, Gabbay and Käser, 2026). This artefact has demonstrated my ability in conveying BPM concepts through engineering a practical, student-centered process model.
 
 | Artefact #2 |
 | :---: |
 | ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/E-portfolio2_Artefact-2.1.png) |
-Figure 4: BPMN TO-BE PROCESS
+Figure 4: BPMN TO-BE process diagram
 
+
+
+### Artefact #3:
 
 
 
@@ -49,6 +60,8 @@ Figure 4: BPMN TO-BE PROCESS
 
 
 References:
+
+Nazaretsky, T., Gabbay, H. and Käser, T. (2026) Can students judge like experts? A large-scale study on the pedagogical quality of AI and human personalized formative feedback. Available online 18 December 2025.
 
 Renna, P. and Colonnese, C. (2025) A simulation-driven business process reengineering framework for teaching assignment optimization in higher education—A case study of the University of Basilicata. Applied Sciences, 15(5), 2756. https://doi.org/10.3390/app15052756
 
