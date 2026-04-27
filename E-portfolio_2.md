@@ -8,7 +8,7 @@ Summary:
 This article introduces a Business Process Reengineering framework which applied within a higher education institution to improve teaching assignment processes. In order to achieve this, the author adopts two critical approaches, which are a detailed AS-IS analysis and a data-driven TO-BE redesign, along with process modeling, simulation, and digital tools. At first, the simulation returns promising results, which are a 35% reduction in  processing time and a 22% improvement in resource utilization. 
 
 Personal reflection:
-I chose this artefact because it directly shows how BPMN is applied in a practical higher education environment, which is relevant to the Business Process Modelling topic (Renna & Colonnese, 2025, p. 1). It strengthens my understanding of how AS-IS models reveal inefficiencies, especially the part where stakeholders had to interact. I found the stakeholder-centric aspect meaningful, since it showed that effective reengineering must consider human elements, not just technical solutions (Renna & Colonnese, 2025, p.5). Another key aspect is the use of SIMUL8® tool to demonstrate the performance of to-be model, which shows me how simulation can predict the behaviour of process before employing it (Renna & Colonnese, 2025, p. 13)(Unit material week 5). This artefact aligns with BPM principles that reengineering processes must take user into consideration, rather than being effective only in theory.
+I chose this artefact because it directly shows how BPMN is applied in a practical higher education environment, which is relevant to the Business Process Modelling topic (Renna & Colonnese, 2025, p. 1). It strengthens my understanding of how AS-IS models reveal inefficiencies, especially the part where stakeholders had to interact. I found the stakeholder-centric aspect meaningful, since it showed that effective reengineering must consider human elements, otherwise it will create resistance without the stakeholder agreement. Essentially, the use of SIMUL8® tool to demonstrate the performance of to-be model, which shows me how simulation can predict the behaviour of process before employing it (Renna & Colonnese, 2025, p. 13)(Unit lecture week 5). This artefact aligns with BPM principles that reengineering processes must take user into consideration, rather than being effective only in theory.
 
 
 | Artefact #1 |
@@ -66,7 +66,18 @@ Figure 7: Root Cause Analysis using 5 Whys – CQU Unit Enrolment Process
 
 
 Summary:
+This artefact is a Root cause analysis (RCA) table, which was created to identify two main bottlenecks in the unit enrolment process at CQUniversity: the lack of unit recommendations and manual resolution of timetable conflict by administrative staff. The five whys method was adopted to identify the underlying root causes of the two inefficiencies. The analysis finally identified two critical process gaps: the lack of data integration among multiple components and automated validation step. 
 
+Personal reflection:
+I created this artefact myself because i already built a TO-BE process model and i wanted to complete the analysis phase of BPM life cycle framework (Unit lecture Week 4) by first identifying inefficiencies/bottlenecks through personal observations or through stakeholder analysis such as interview, survey. Observing on my own that the unit enrolment process currently lacks support/guidance, and frequently causes timetable clash, so i used the 5 whys approach to investigate the root causes of them. This table has taught me a valuable lesson that process inefficiencies mostly comes from poor system design, rather than the human-related error, which usually neglect human factor (Akinbowale, Zerihun and Mashigo, 2026, p.11). By conducting this analysis, i now fully understand how to model AS-IS process and conduct root cause analysis, work together to inform the process reengineering model I developed in artefact #2. 
+
+
+
+
+### Artefact #4: 
+
+
+Summary:
 
 
 Personal reflection:
@@ -78,12 +89,9 @@ Personal reflection:
 
 
 
-
-
-
-
-
 References:
+
+Akinbowale, O.E., Zerihun, M.F. and Mashigo, P. (2026) 'Business process management framework: systematic review of the trends, potentials and future', Cogent Business & Management, 13(1), article 2627025. https://doi.org/10.1080/23311975.2026.2627025
 
 Nazaretsky, T., Gabbay, H. and Käser, T. (2026) 'Can students judge like experts? A large-scale study on the pedagogical quality of AI and human personalized formative feedback', Computers and Education: Artificial Intelligence, 10, article 100533. https://doi.org/10.1016/j.caeai.2025.100533
 
