@@ -45,7 +45,7 @@ Figure 4: BPMN TO-BE process diagram
 
 
 
-### Artefact #3:
+### Artefact #3: Root cause Analysis table - CQU Unit Enrolment Process
 
 | Artefact #3 |
 | :---: |
@@ -75,6 +75,7 @@ I created this artefact myself because I already built a TO-BE process model and
 
 
 ### Artefact #4: 
+Youtube video: https://www.youtube.com/watch?v=iwnz317U1-k
 
 
 Summary:
