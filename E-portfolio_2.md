@@ -58,6 +58,13 @@ Figure 5: Root Cause Analysis using 5 Whys – CQU Unit Enrolment Process
 | ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/E-portfolio2_Artefact-3.2.png) |
 Figure 6: Root Cause Analysis using 5 Whys – CQU Unit Enrolment Process
 
+| Artefact #3 |
+| :---: |
+| ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/E-portfolio2_Artefact-3.3.png) |
+Figure 7: Root Cause Analysis using 5 Whys – CQU Unit Enrolment Process
+
+
+
 Summary:
 
 
