@@ -66,6 +66,8 @@ Youtube video: https://www.youtube.com/watch?v=iwnz317U1-k
 
 Summary:
 This artefact is a video from Miro team explaining how to use different features to create efficient process models in the platform. It has a variety of templates to customize on our own, shapes (rectangles for tasks, diamonds for decisions, arrows for flow), and collaboration tool. The video also shows a practical example of mapping a customer support ticket process with multiple agents. One interesting thing is that this video seems to use AI-Generative audio and visual, which shows that automation is increasing even in learning materials, which is similar to how BPM is aiming to automate business workflow. 
+
+
 Personal reflection:
 Watching this Miro video changed the way I approach Business Process Modelling. Before watching this video, I found it very challenging to model a real-world process model in an organization such as customer support workflow. What stood out for me was that multiple stakeholders work on the same diagram in real time, which allows them to identify bottlenecks, remove redundant tasks, and suggest some improvements along the way. This emphasizes the importance of acknowledging effective process modelling is not only about technical task, but also about foster collaboration among stakeholders. What I found interesting about designing a BPMN is that the process diagram is naturally iterative, as I connected tasks with flows, I could continuously brainstorm and redesign the process logically. By watching this video and using Miro, this combination has given me the confidence to model complex processes such as the tuition payment process in Artefact three. Hence, I plan to apply this new knowledge to my future projects. 
 
