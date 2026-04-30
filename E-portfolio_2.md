@@ -28,7 +28,7 @@ Figure 3: Numeric results of piloting the simulation tool (Renna & Colonnese, 20
 
 
 
-### Artefact #2: Engineering a BPMB TO-BE process model: Student Requesting Assignment Feedback
+### Artefact #2: Engineering a BPMN TO-BE process model: Student Requesting Assignment Feedback
 
 
 Summary:
