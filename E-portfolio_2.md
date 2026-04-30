@@ -49,7 +49,7 @@ Figure 4: BPMN TO-BE process diagram
 
 | Artefact #3 |
 | :---: |
-| ![Artefact 1]([https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/E-portfolio2_Artefact-3.1.png](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/E-portfolio2_Artefact-3.1.png.png)) |
+| ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/E-portfolio2_Artefact-3.1.png.png) |
 Figure 5: As-S and TO-BE process
 
 
