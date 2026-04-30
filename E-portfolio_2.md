@@ -79,11 +79,10 @@ Youtube video: https://www.youtube.com/watch?v=iwnz317U1-k
 
 
 Summary:
-
+This artefact is a video from Miro team explaining about how to use different features in the platform. It shows us how to use different features, especially using templates to customize my own process model. It also demonstrates an example of mapping the process for handling customer support tickets, specifically rectangles to represent tasks which are performed by different agents for different agents, diamond refers to a decision (yes or no) and arrows to show the flow from one step to the next. Once it is completed, we can also share it with our team via email or direct link. 
 
 Personal reflection:
-
-
+This video helped me understand how Miro can visualize the mapping process. Before watching this video, i find it very challenging to model a practical process in an organization such as customer support workflow. What stood out for me was that multiple stakeholders can contribute by spotting bottlenecks and removing redundant tasks. One thing interesting about designing a BPMN is that i can see the flow of the diagram is actually iterative, which means one task will initialize another. Hence, i plan to visualize a variety of complex diagrams with Miro's templates to enhance my notations about Business process modeling, as this seems to be more intuitive than starting from a blank canvas.
 
 
 
