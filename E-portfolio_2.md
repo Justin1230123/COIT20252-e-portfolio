@@ -45,31 +45,20 @@ Figure 4: BPMN TO-BE process diagram
 
 
 
-### Artefact #3: Root cause Analysis table - CQU Unit Enrolment Process
+### Artefact #3: 
 
 | Artefact #3 |
 | :---: |
-| ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/E-portfolio2_Artefact-3.1.png) |
-Figure 5: Root Cause Analysis using 5 Whys – CQU Unit Enrolment Process
+| ![Artefact 1]([https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/E-portfolio2_Artefact-3.1.png](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/E-portfolio2_Artefact-3.1.png.png)) |
+Figure 5: As-S and TO-BE process
 
-
-| Artefact #3 |
-| :---: |
-| ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/E-portfolio2_Artefact-3.2.png) |
-Figure 6: Root Cause Analysis using 5 Whys – CQU Unit Enrolment Process
-
-| Artefact #3 |
-| :---: |
-| ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/E-portfolio2_Artefact-3.3.png) |
-Figure 7: Root Cause Analysis using 5 Whys – CQU Unit Enrolment Process
 
 
 
 Summary:
-This artefact is a Root cause analysis (RCA) table, which was created to identify two main bottlenecks in the unit enrolment process at CQUniversity: the lack of unit recommendations and manual resolution of timetable conflict by administrative staff. The five whys method was adopted to identify the underlying root causes of the two inefficiencies. The analysis finally identified two critical process gaps: the lack of data integration among multiple components and automated validation step. 
-
+This artefact was designed to model tuition payment process using Lucid Chart. The TO-BE diagram builds on the AS-IS workflow by introducing new concepts such as automated email confirmations, tracking transaction reference, and compliance protocols. The model includes decision points for validating payment, handling cases when students do not have enough funds (in these cases, the systems will ask for proof of delays before continuing), and updating student balance when payment either fails or succeeds. By making transaction details visible and storing records properly, this redesign reduces the risk of payment conflicts between students and CQUniversity.
 Personal reflection:
-I created this artefact myself because I already built a TO-BE process model and I wanted to complete the analysis phase of BPM life cycle framework (Unit lecture Week 4) by first identifying inefficiencies/bottlenecks through personal observations or through stakeholder analysis such as interview, survey. Observing on my own that the unit enrolment process currently lacks support/guidance, and frequently causes timetable clash, so i used the 5 whys approach to investigate the root causes of them (e.g., the lack of data integration). This table has taught me a valuable lesson that process inefficiencies mostly comes from poor system design, rather than the human-related error, which usually does not consider human factor (Akinbowale, Zerihun and Mashigo, 2026, p.11). Specifically, the human element refers to students'need to be guided or supported by either a built-in AI chatbox or Admin staff. By conducting this analysis, i now fully understand how to model AS-IS process and conduct root cause analysis, work together to inform the process reengineering model I developed in artefact #2. 
+This artefact shows my ability to model a complete business process using swimlane notation learned in week 4. The TO-BE process reengineers the tuition payment workflow to include automated confirmation email and transaction reference. Compared to AS-IS model, which lacks transaction details, create risks for both student and CQU. Moreover, i also designed some compliance protocol, such as archiving receipt and transaction details for 7 years to ensure that no conflicts will take place. One challenge i faced when implementing this diagram was how much detail i want to include. This diagram has shown me that even workflow with good design, still can reveal hidden bottlenecks when it is mapped correctly , and i also have learnt how to make diagram readable for non-technical stakeholders. 
 
 
 
@@ -79,10 +68,10 @@ Youtube video: https://www.youtube.com/watch?v=iwnz317U1-k
 
 
 Summary:
-This artefact is a video from Miro team explaining about how to use different features in the platform. It shows us how to use different features, especially using templates to customize my own process model. It also demonstrates an example of mapping the process for handling customer support tickets, specifically rectangles to represent tasks which are performed by different agents for different agents, diamond refers to a decision (yes or no) and arrows to show the flow from one step to the next. Once it is completed, we can also share it with our team via email or direct link. 
+This artefact is a video from Miro team explaining about how to use different features to create efficient process models in the platform. It has a variety of templates to customize on our own, shapes (rectangles for tasks, diamonds for decisions, arrows for flow), and collaboration characteristic. The video also shows a practical example of mapping a customer support ticket process with multiple agents. 
 
 Personal reflection:
-This video helped me understand how Miro can visualize the mapping process. Before watching this video, i find it very challenging to model a practical process in an organization such as customer support workflow. What stood out for me was that multiple stakeholders can contribute by spotting bottlenecks and removing redundant tasks. One thing interesting about designing a BPMN is that i can see the flow of the diagram is actually iterative, which means one task will initialize another. Hence, i plan to visualize a variety of complex diagrams with Miro's templates to enhance my notations about Business process modeling, as this seems to be more intuitive than starting from a blank canvas.
+Watching this Miro video changed the way I approach Business Process Modelling. Before watching this video, i found it very challenging to model a real-world process model in an organization such as customer support workflow. What stood out for me was that multile stakeholders work on the same diagram in real time, which facilitates them to identify bottlenecks, remove redundant tasks, and suggest some improvements along the way. This emphasizes the importance of acknowledging effective process modelling is not only about technical task, but also about foster collaboration among people. What I found interesting about designing a BPMN is that the process diagram is naturally iterative, as I connect tasks through flows, I can continuously brainstorm and redesign the process logically. By watching this video and using Miro, this combination has given me the confidence to model complex processes such as the diagram in Artefact three. Hence, I plan to apply this new knowledge to my future projects. 
 
 
 
