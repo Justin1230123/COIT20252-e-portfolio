@@ -53,10 +53,9 @@ Figure 4: BPMN TO-BE process diagram
 Figure 5: As-S and TO-BE process
 
 
-
-
 Summary:
 This artefact was designed to model tuition payment process using Lucid Chart. The TO-BE diagram builds on the AS-IS workflow by introducing new concepts such as automated email confirmations, tracking transaction reference, and compliance protocols. The model includes decision points for validating payment, handling cases when students do not have enough funds (in these cases, the systems will ask for proof of delays before continuing), and updating student balance when payment either fails or succeeds. By making transaction details visible and storing records properly, this redesign reduces the risk of payment conflicts between students and CQUniversity.
+
 Personal reflection:
 This artefact shows my ability to model a complete business process using swimlane notation learned in week 4. The TO-BE process reengineers the tuition payment workflow to include automated confirmation email and transaction reference. Compared to AS-IS model, which lacks transaction details, create risks for both student and CQU. Moreover, i also designed some compliance protocol, such as archiving receipt and transaction details for 7 years to ensure that no conflicts will take place. One challenge i faced when implementing this diagram was how much detail i want to include. This diagram has shown me that even workflow with good design, still can reveal hidden bottlenecks when it is mapped correctly , and i also have learnt how to make diagram readable for non-technical stakeholders. 
 
