@@ -33,9 +33,7 @@ I selected this video mainly because after learning about the concept of RPA in 
 Figure 1:RPA definition (NextGen Learningg 2026)
 
 
-
-
-
+---
 ### Artefact #2: Robodebt scandal
 
 **Type:** Official Royal Commission Report
@@ -60,7 +58,7 @@ Figure 2:Robodebt scandal (SBS 2025)
 
 
 
-
+---
 Artefact #3: Optus breach going to court
 
 Link: https://www.oaic.gov.au/news/media-centre/australian-information-commissioner-takes-civil-penalty-action-against-optus
@@ -71,7 +69,7 @@ Link: https://www.oaic.gov.au/news/media-centre/australian-information-commissio
 #### Personal reflection:
 This artefact was chosen because it is considered one the largest process cybersecurity disasters in Australia's history. 
 
-
+---
 Artefact #4: 
 
 
@@ -83,8 +81,9 @@ Summary:
 Personal reflection: 
 
 
-
+---
 References:
+
 1. Commonwealth of Australia (2023) Royal Commission into the Robodebt Scheme: Final Report. Canberra: Commonwealth of Australia. Available at: https://robodebt.royalcommission.gov.au/system/files/2023-09/rrc-accessible-full-report.PDF (Accessed: 28 April 2026).
 
 2. Chugh, R., Macht, S. and Hossain, R. (2022) 'Robotic process automation: a review of organizational grey literature', International Journal of Information Systems and Project Management, 10(1), pp. 1–16.
