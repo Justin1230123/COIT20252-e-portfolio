@@ -11,16 +11,10 @@ RPA is defined as software robots that automate human repetitive tasks such as d
 Personal reflection:
 I selected this video mainly because after learning about the concept of RPA in week 8 lecture, I wanted to see how it works in practice and its efficiency, not just in theory. For example, daily data entry task in banking sector requires high accuracy and attention to detail, and even a small human error can escalate into big financial issue. By employing RPA, it can minimize mistakes to the minimum and allow employees to perform value-adding activities, therefore navigating them to tasks that require judgement and decision-making. But what is more important is the human element playing in RPA implementation. The robots only do what it is programmed to do, someone still have to decide which tasks should be automated, design workflows, monitor and validate the outcomes. If that human oversight is out of the picture, RPA can scale errors just as much as it scales effectiveness. 
 
-
-
-
 | Artefact #1 |
 | :---: |
 | ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/E-portfolio3_Artefact-1.1.png) |
 Figure 1:RPA definition (NextGen Learningg 2026)
-
-
-
 
 
 
@@ -50,6 +44,11 @@ Summary:
 
 
 Personal reflection:
+
+
+
+
+
 
 
 References:
