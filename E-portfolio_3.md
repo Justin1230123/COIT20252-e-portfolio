@@ -22,6 +22,8 @@ Figure 1:RPA definition (NextGen Learningg 2026)
 
 Artefact #2: Robodebt scandal
 
+Link: https://robodebt.royalcommission.gov.au/
+
 Summary:
 The Royal Commission into the Robodebt scheme was established in 2022 to investigate devastating consequences of this scheme on residents and public trust in government systems. The scheme heavily relied on a process known as "income averaging" algorithms and automated decision-making to assess income and entitlement to benefit (Commonwealth of Australia 2023, p.5). Moreover, the process assumed that everyone received a steady, consistent income each week, which is inaccurate for casual or seasonal workers . To make it worse, public servants were mostly ignored or discouraged when they raised concerns about it, which the system failed to account for human oversight and objective judgement. This resulted in financial hardship for thousands of citizens, and a lack of transparency in the automated process.
 
@@ -39,12 +41,11 @@ Figure 2:Robodebt scandal (SBS 2025)
 
 Artefact #3: Optus breach
 
-Summary:
-
+Summary: Optus breach tool place in 2022 due to a cyber attack. Millions of current and former Optus customers' personal information was hacked due to mistaken process cybersecurity done by Optus. The OAIC penelized Optus in 2025 regarding the data breach, which emphasizes multiple failures in data governance and risk management process. Change management process is a key factor that led to this incident, specificially, the old API system was closed, but then it was automatically reopened without human oversight or rview. The results were 9,5 million sensitive data of Australians was leaked and a 50-million penalty. 
 
 
 Personal reflection:
-
+This artefact was chosen because it is considered one the largest process cybersecurity disasters in Australia's history. 
 
 
 
