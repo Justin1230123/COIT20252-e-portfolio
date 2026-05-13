@@ -6,10 +6,10 @@ Artefact #1: A youtube video about RPA definition
 Link: https://www.youtube.com/watch?v=h2l1uqeTOr4
 
 Summary:
-RPA is defined as software robots that copy human repetitive tasks such as data entry or invoice processing. Although these tasks are essential for any organization, they could be very time-consuming, and prone to errors when dealing with a large amount or manually. This ensures the organization can allocate resources and time into more creative, meaningful work. The video continued to explain how RPA works, it starts by identifying repetitive tasks that need to be done and then design a workflow for the robots to follow. Uipath was introduced as Drag-and-drop RPA tool for organizations to streamline their workflows and transform digitally without any coding knowledge needed. The video finally went on listing a lot of practical applications of RPA in various fields such as retail, banking or supply chain.
+RPA is defined as software robots that automate human repetitive tasks such as data entry or invoice processing. Although these tasks are essential for any organization, they could be very time-consuming, and prone to errors when dealing with a large number or manually. Therefore, RPA ensures that organization can allocate resources and time into more creative, meaningful work. Essentially, looking into how RPA process works, it starts by identifying repetitive tasks that need to be completed and then designs a workflow for the robots to follow. To exemplify this, Uipath was introduced as Drag-and-drop RPA tool for organizations to streamline their workflows and transform digitally without any coding knowledge needed. The video finally listed plenty of practical applications of RPA and their benefits in various fields such as retail, banking or supply chain.
 
 Personal reflection:
-I selected this video mainly because after learning about the concept of RPA in week 8 lecture, I wanted to look into its real-world applications and effectiveness in organizations. This video strengthened my knowledge of RPA, and as a future office employee, I can apply it into organization operations. For example, daily data entry task in banking sector requires high accuracy and attention to detail, by employing RPA, it can minimize mistakes to the minimum and allow employees to perform value-adding activities, therefore improving productivity. Another positive aspect of RPA is ROI,   
+I selected this video mainly because after learning about the concept of RPA in week 8 lecture, I wanted to see how it works in practice and its efficiency, not just in theory. For example, daily data entry task in banking sector requires high accuracy and attention to detail, and even a small human error can escalate into big financial issue. By employing RPA, it can minimize mistakes to the minimum and allow employees to perform value-adding activities, therefore navigating them to tasks that require judgement and decision-making. But what is more important is the human element playing in RPA implementation. The robots only do what it is programmed to do, someone still have to decide which tasks should be automated, design workflows, monitor and validate the outcomes. If that human oversight is out of the picture, RPA can scale errors just as much as it scales effectiveness. 
 
 
 
@@ -55,10 +55,8 @@ Personal reflection:
 References:
 - Commonwealth of Australia (2023) Royal Commission into the Robodebt Scheme: Final Report. Canberra: Commonwealth of Australia. Available at: https://robodebt.royalcommission.gov.au/system/files/2023-09/rrc-accessible-full-report.PDF (Accessed: 28 April 2026).
 
-
 - Chugh, R., Macht, S. and Hossain, R. (2022) 'Robotic process automation: a review of organizational grey literature', International Journal of Information Systems and Project Management, 10(1), pp. 1–16.
 
 - NextGen Learningg 2026, What is RPA? | Robotic Process Automation for Beginners, YouTube video, viewed 12 May 2026, https://www.youtube.com/watch?v=h2l1uqeTOr4.
 
 - SBS (2025) 'Robodebt scandal explored in SBS docu-drama The People vs Robodebt', SBS News, 20 August. Available at: https://www.sbs.com.au/... (Accessed: 11 May 2026).
-.
