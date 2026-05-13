@@ -1,16 +1,24 @@
 # E-portfolio Submission Two  
+
 **Theme:** Robotic Process Automation and Process Cybersecurity
 
-**Student Name:** Sy Lam Anh  
+**Student Name:** Sy Lam Anh 
+
 **Student ID:** 12268415 
+
 **Submission Date:** 20/05/2026
 
 ---
 
 ### Artefact #1: A youtube video about RPA definition
+
 **Type:** YouTube Video
+
+
 **Title:** What is RPA? | Robotic Process Automation for Beginners
+
 **Source:** NextGen Learning (2026)  
+
 **Link:** [RPA definition](https://www.youtube.com/watch?v=h2l1uqeTOr4)
 
 #### Summary:
@@ -30,9 +38,12 @@ Figure 1:RPA definition (NextGen Learningg 2026)
 
 ### Artefact #2: Robodebt scandal
 
-**Type:** Official Royal Commission Report  
+**Type:** Official Royal Commission Report
+
 **Title:** Royal Commission into the Robodebt Scheme: Final Report  
+
 **Source:** Commonwealth of Australia (2023)  
+
 **Link:** [Robodebt](https://robodebt.royalcommission.gov.au/system/files/2023-09/rrc-accessible-full-report.PDF)
 
 #### Summary:
