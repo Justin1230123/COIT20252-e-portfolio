@@ -66,22 +66,31 @@ Figure 2:Robodebt scandal (SBS 2025)
 
 **Source:** OAIC (2026)  
 
-**Link:** [Robodebt](https://www.oaic.gov.au/news/media-centre/australian-information-commissioner-takes-civil-penalty-action-against-optus)
+**Link:** [Optus breach](https://www.oaic.gov.au/news/media-centre/australian-information-commissioner-takes-civil-penalty-action-against-optus)
 
 
-#### Summary: Optus data breach took place in 2022 due to a cyber attack, and millions of current and former Optus customers' personal information was hacked due to mistaken process cybersecurity at Optus (OAIC 2025). The Australian Information Commissioner (OAIC) penalized Optus in 2025 regarding the data breach, which emphasizes multiple failures in data governance and risk management process. A hange management process is a key factor that led to this incident, specificially, the old API system was closed, but then it was automatically reopened without human oversight or review. Optus failed to comply with the Privacy Act 1988 by not protecting enough data confidentiality (a key principle of the CIA Triad) from unauthorised access. The results was a civil penalty of up to $2.22 million for each contravention, with increased civil penalties of up to $50 million (OAIC 2025).
+#### Summary: 
+Optus data breach took place in 2022 due to a cyber attack, and millions of current and former Optus customers' personal information was hacked due to mistaken process cybersecurity at Optus (OAIC 2025). The Australian Information Commissioner (OAIC) penalized Optus in 2025 regarding the data breach, which emphasizes multiple failures in data governance and risk management process. A change management process is a key factor that led to this incident, specifically, the old API system was closed, but then it was automatically reopened without human oversight or review. Optus failed to comply with the Privacy Act 1988 by not protecting enough data confidentiality (a key principle of the CIA Triad) from unauthorised access. The result was a civil penalty of up to $2.22 million for each contravention, with increased civil penalties of up to $50 million (OAIC 2025).
 
 
 #### Personal reflection:
-This artefact was chosen because it is considered one the largest process cybersecurity disasters in Australia's history and it directly connects to core concepts about protecting the confidentiality, integrity, and availability of organisational processes and systems. 
+This artefact was chosen because it is considered one of the largest process cybersecurity disasters in Australia's history and it directly connects to core concepts about protecting the confidentiality, integrity, and availability of organisational processes and systems. The API should never be publicly accessible if it permits interactions with core business operations; In other words, limit access to critical systems, but Optus did the opposite. This is exactly the gap that Week 8 emphasized: cybersecurity is not just about having the right technology, it requires people to actively monitor, test, and validate system changes. This case also shows me that automated processes can reverse changes without anyone noticing, which is a huge risk if there is no audit or monitoring process. Week 8's best practices mention monitoring system logs and conducting regular testing, both of which could have prevented this breach. The key lesson i gain from this is that process cybersecurity is an ongoing process that strictly requires human involvement at every stage, from designing to monitoring and responding to incidents. 
 
-| Artefact #2 |
+
+| Artefact #3 |
 | :---: |
 | ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/E-portfolio3_Artefact-3.jpg.jpeg) |
 Figure 3: Optus Data Breach (Sibenco Legal & Advisory 2022)
 
 ---
 Artefact #4: 
+**Type:** 
+
+**Title:** 
+
+**Source:** 
+
+**Link:** 
 
 
 
