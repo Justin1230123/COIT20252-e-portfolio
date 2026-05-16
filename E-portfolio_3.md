@@ -58,7 +58,7 @@ Figure 2:Robodebt scandal (SBS 2025)
 
 
 ---
-### Artefact #3: Optus data breach
+### Artefact #3: Optus Data Breach
 
 **Type:** Press release/Media release
 
@@ -74,6 +74,11 @@ Figure 2:Robodebt scandal (SBS 2025)
 
 #### Personal reflection:
 This artefact was chosen because it is considered one the largest process cybersecurity disasters in Australia's history and it directly connects to core concepts about protecting the confidentiality, integrity, and availability of organisational processes and systems. 
+
+| Artefact #2 |
+| :---: |
+| ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/E-portfolio3_Artefact-3.jpg.jpeg) |
+Figure 3: Optus Data Breach (Sibenco Legal & Advisory 2022)
 
 ---
 Artefact #4: 
@@ -99,3 +104,6 @@ Personal reflection:
 4. Office of the Australian Information Commissioner (OAIC) 2025, Australian Information Commissioner takes civil penalty action against Optus, OAIC, 8 August, viewed 13 May 2026, https://www.oaic.gov.au/news/media-centre/australian-information-commissioner-takes-civil-penalty-action-against-optus. 
 
 5. SBS (2025) 'Robodebt scandal explored in SBS docu-drama The People vs Robodebt', SBS News, 20 August. Available at: https://www.sbs.com.au/... (Accessed: 11 May 2026).
+
+6. Sibenco Legal & Advisory 2022, Optus Data Breach – the risks of data over-retention, Sibenco Legal & Advisory, 24 October, viewed 13 May 2026, https://www.sibenco.com/optus-data-breach-the-risks-of-data-over-retention/
+7. 
