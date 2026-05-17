@@ -2,7 +2,7 @@
 
 **Theme:** Robotic Process Automation and Process Cybersecurity
 
-**Student Name:** Sy Lam Anh 
+**Student Name:** Sy Lam Anh Tran
 
 **Student ID:** 12268415 
 
