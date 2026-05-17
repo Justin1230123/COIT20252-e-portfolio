@@ -83,22 +83,24 @@ This artefact was chosen because it is considered one of the largest process cyb
 Figure 3: Optus Data Breach (Sibenco Legal & Advisory 2022)
 
 ---
-Artefact #4: 
-**Type:** 
+Artefact #4: Digital procurement using RPA
+**Type:** Workflow diagram
 
-**Title:** 
-
-**Source:** 
-
-**Link:** 
-
+**Title:** Digital procurement using RPA
 
 
 Summary:
+This artefact is a BPMN diagram created in Bizagi Modeler, which illustrates a digital procurement process using Robotic Process Automation. The diagram has five participants (Procurement, Financial and Management, Vendor, Warehouse, and an RPA Bot) in a procurement workflow. It begins with procurement planning and selecting suppliers, then it flows through contract drafting, two-level human review, contract signing, and purchase order creation. Once the Purchasing order is generated, it triggers RPA bot to  automatically notify relevant parties (vendor/departments), monitor delivery schedules, receive invoices, and execute three-way matching. If the matching is different between departments, the process will require human review or oversight, since RPA is not allowed to implement decision-making without human element, a valuable lesson learned in Robodebt scheme. 
 
 
 
 Personal reflection: 
+
+
+| Artefact #3 |
+| :---: |
+| ![Artefact 1](https://github.com/Justin1230123/COIT20252-e-portfolio/blob/main/E-portfolio3_Artefact-4.jpg.png) |
+Figure 3: Digital procurement using RPA
 
 
 ---
