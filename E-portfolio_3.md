@@ -70,7 +70,7 @@ Figure 2:Robodebt scandal (SBS 2025)
 
 
 #### Summary: 
-Optus data breach took place in 2022 due to a cyber attack, and millions of current and former Optus customers' personal information was hacked due to mistaken process cybersecurity at Optus (OAIC 2025). The Australian Information Commissioner (OAIC) penalized Optus in 2025 regarding the data breach, which emphasizes multiple failures in data governance and risk management process. A change management process is a key factor that led to this incident, specifically, the old API system was closed, but then it was automatically reopened without human oversight or review. Optus failed to comply with the Privacy Act 1988 by not protecting enough data confidentiality (a key principle of the CIA Triad) from unauthorised access. The result was a civil penalty of up to $2.22 million for each contravention, with increased civil penalties of up to $50 million (OAIC 2025).
+Optus data breach took place in 2022 due to a cyber attack, and millions of current and former Optus customers' personal information was hacked due to mistaken process cybersecurity at Optus (OAIC 2025). The Australian Information Commissioner (OAIC) penalized Optus in 2025 regarding the data breach, which emphasizes multiple failures in data governance and risk assessment process. A change management process is a key factor that led to this incident, specifically, the old API system was closed, but then it was automatically reopened without human oversight or review. Optus failed to comply with the Privacy Act 1988 by not protecting enough data confidentiality (a key principle of the CIA Triad) from unauthorised access. The result was a civil penalty of up to $2.22 million for each contravention, with increased civil penalties of up to $50 million (OAIC 2025).
 
 
 #### Personal reflection:
@@ -94,7 +94,7 @@ This artefact is a BPMN diagram created in Bizagi Modeler, which illustrates a d
 
 
 #### Personal reflection: 
-
+Creating this workflow diagram has deepened my understanding of how organizations can integrate RPA into their digital procurement. The most difficult aspect was to decided which tasks should be automated by RPA and which ones should be executed by human. For example, I was wondering whether signing contract or matching invoice could be entirely automated, 
 
 | Artefact #3 |
 | :---: |
